@@ -1,5 +1,7 @@
-DinguxCommander
+MiyooMiniCommander
 ===============
+
+This is a port of dingux commander for miyoo mini.
 
 DinguxCommander is a two-pane file manager in the style of Norton Commander.
 
